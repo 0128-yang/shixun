@@ -8,7 +8,7 @@ from datetime import datetime
 
 # 主标题
 
-st.title("🕶️ 学生 小陆 - 数字档案")
+st.title("🕶️ 学生 小杨 - 数字档案")
 
 
 
